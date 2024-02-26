@@ -21,7 +21,7 @@
 
 # EnergyProfile-GO1
 
-The contains the datasets in which our ICRA 2024 paper has based its GO1 robot energy performance. We proposed a novel robotic SAR framework that
+The following repository contains the datasets in which our ICRA 2024 paper has based its GO1 robot energy performance. We proposed a novel robotic SAR framework that
 enhances state-of-the-art orchestration strategies for mobile collaborative robots by introducing a SAR mission planning phase. Specifically, we introduce a mission planning building block that takes into account readily available information to first responders such as the area to be explored and the
 number of robots available and, considering mission goals such as exploration rate and response time, provides informed decisions on the number of robots required for a mission.
 
